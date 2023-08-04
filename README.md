@@ -9,10 +9,12 @@
 - 플랫폼 : 윈도우
 - 제작 인원 : 4 인 (기획1, 디자인1, 개발1, 이펙터1)
 - 제작 기간 : 각 2주 + QA 1주 (총 9개월)
-- 작업물: 2인용 10개, 다인용 2개
 - 사용 엔진과 언어 : Unity, C#
+- 작업물: 2인용 10개, 다인용 2개
+  - 1. 조물조물 맛있는 피자 
 <br></br>
 
 
+![image](https://github.com/yeonii56/PlaySQ/assets/90385816/be351008-ad33-48cd-9bf5-3f74b2946641)
 ![image](https://github.com/yeonii56/PlaySQ/assets/90385816/0b2d337e-50c4-4942-805c-89357a0f23b9)
 ---
