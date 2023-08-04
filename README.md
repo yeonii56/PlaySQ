@@ -1,7 +1,6 @@
-# PlaySQ
-❤kLC(Korean language certificate)❤
-👉 VR 언어 교육용 게임(팀플)
-VR을 통하여 사용자의 언어 능력을 향상시키는 VR 언어 교육용 게임입니다.
+# ❤PlaySQ❤
+👉 지앤플렉스에서 담당하여 진헹한 프로젝트
+유아 교육용 스크린 2d 게임입니다.
 
 image image
 
