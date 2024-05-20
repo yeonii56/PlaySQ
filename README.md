@@ -3,10 +3,10 @@
 ### 💛 유아 교육용 스크린 2d 게임
 > 지앤플렉스에서 담당 개발자로 작업한 프로젝트입니다.
 
-<img src="https://github.com/yeonii56/PlaySQ/assets/90385816/44c23435-d8d4-471d-af05-f12d89c1b2ab" width="500" height="280"/>
-<img src="https://github.com/yeonii56/PlaySQ/assets/90385816/b7194482-62c6-4a60-86bf-413966cca6c4" width="500" height="280"/>
 <img src="https://github.com/yeonii56/PlaySQ/assets/90385816/be351008-ad33-48cd-9bf5-3f74b2946641" width="500" height="280"/>
 <img src="https://github.com/yeonii56/PlaySQ/assets/90385816/0b2d337e-50c4-4942-805c-89357a0f23b9" width="500" height="280"/>
+<img src="https://github.com/yeonii56/PlaySQ/assets/90385816/f17278e6-7a96-41dc-93e9-94e660a2aebb" width="500" height="280"/>
+<img src="https://github.com/yeonii56/PlaySQ/assets/90385816/d148a930-f991-407a-b516-7aab898cb95a" width="500" height="280"/>
 
 ---
 ## 👉 프로젝트 소개
